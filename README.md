@@ -31,6 +31,7 @@ The output files will be in the "output" folder.  In particular, the file "recon
 The implementation of this research exists in a repository which contains code from other, somewhat unrelated research efforts.  The most important code for the project is in the following directories:
 -	src/tetzlaff/ibrelight/export/specularfit
 -	shaders/specularfit
+
 The code in these directories do depend on a considerable amount of utility code from the rest of the repository; however, the novel research contributions of the work to be published in IEEE TVCG are for the most part in the directories listed above.
 The entry point for the algorithm which is the focus of the published work is tetzlaff.ibrelight.export.specularfit.SpecularFitRequest.java.
 
