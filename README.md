@@ -1,5 +1,7 @@
 Title: High-Fidelity Specular SVBRDF Acquisition from Flash Photographs
+
 Author: Michael Tetzlaff
+
 OS: Windows 10 (64 bit)
 
 Hardware requirement: GTX 1050 Ti (4GB VRAM) or better
